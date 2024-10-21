@@ -31,5 +31,9 @@ Riceve le richieste inoltrate dal Server Segreteria, le elabora e restituisce le
 4. Avvio degli eseguibili in ordine: `./server_universita` `./server_segreteria` `./studente 127.0.0.1`
 
 ## Documentazione
-* [Traccia progetto]()
-* [Documentazione progetto]()
+* [Traccia progetto](Traccia Esame.pdf)
+* [Documentazione progetto](RELAZIONE RETI DI CALCOLATORI.pdf)
+
+## Team
+* [Menale Nicola](https://github.com/NicolaMenale)
+* [Simpatico Giulio](https://github.com/ironmagic001)
