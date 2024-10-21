@@ -29,3 +29,7 @@ Riceve le richieste inoltrate dal Server Segreteria, le elabora e restituisce le
 2. Navigare nella cartella del progetto: `cd RetiDiCalcolatori`
 3. Compilare i file del progetto: `gcc -o server_universita server_universita.c` `gcc -o server_segreteria server_segreteria.c` `gcc -o studente studente.c`
 4. Avvio degli eseguibili in ordine: `./server_universita` `./server_segreteria` `./studente 127.0.0.1`
+
+## Documentazione
+* [Traccia progetto]()
+* [Documentazione progetto]()
